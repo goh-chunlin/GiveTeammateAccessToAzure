@@ -1,5 +1,5 @@
 # GiveTeammateAccessToAzure
-A guide helping me to easily follow in order to give teammates access to Microsoft Azure subscription.
+A guide helping Azure Portal administrator to easily follow in order to give teammates access to Microsoft Azure subscription.
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
